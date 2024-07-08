@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="720.0" style="-fx-background-color: #1E8449;" stylesheets="@../../../NewProject/DEMO%20project/Project_2Demo/src/sample/Style.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.sellToMarketController">
+   <children>
+      <Label alignment="CENTER" layoutX="121.0" layoutY="14.0" prefHeight="81.0" prefWidth="491.0" style="-fx-background-color: #3a7ca5;" text="Players Of The Club" textAlignment="CENTER" textFill="#fffdfd">
+         <font>
+            <Font name="Copperplate Gothic Bold" size="36.0" />
+         </font>
+      </Label>
+      <ScrollPane layoutX="41.0" layoutY="108.0" opacity="0.85" prefHeight="410.0" prefWidth="650.0" style="-fx-background-color: #ABEBC6;">
+         <content>
+            <GridPane fx:id="gridCard" prefHeight="80.0" prefWidth="174.0" style="-fx-background-color: #EDBB99;">
+               <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               </rowConstraints>
+            </GridPane>
+         </content>
+      </ScrollPane>
+      <Button fx:id="backButton" layoutX="599.0" layoutY="543.0" mnemonicParsing="false" onAction="#back" prefHeight="38.0" prefWidth="107.0" text="Back">
+         <font>
+            <Font name="Arial" size="24.0" />
+         </font></Button>
+   </children>
+</AnchorPane>

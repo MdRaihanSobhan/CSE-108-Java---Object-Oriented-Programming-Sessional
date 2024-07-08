@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="606.0" prefWidth="834.0" style="-fx-background-color: #EB984E;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.logInPageController">
+   <children>
+      <Button fx:id="logInButton" layoutX="409.0" layoutY="419.0" mnemonicParsing="false" onAction="#LogIn" text="Log In">
+         <font>
+            <Font size="14.0" />
+         </font></Button>
+      <TextField fx:id="nameOfTheClub" layoutX="394.0" layoutY="227.0" onAction="#LogIn" prefHeight="35.0" prefWidth="242.0" promptText="Enter a Club Name" />
+      <PasswordField fx:id="passwordText" layoutX="394.0" layoutY="298.0" onAction="#LogIn" prefHeight="35.0" prefWidth="242.0" promptText="Enter Password" />
+      <Label alignment="CENTER" layoutX="368.0" layoutY="94.0" prefHeight="88.0" prefWidth="131.0" text="Log In">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="306.0" layoutY="231.0" text="Club :">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="281.0" layoutY="302.0" text="Password : ">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <AnchorPane layoutX="-2.0" layoutY="-6.0" prefHeight="615.0" prefWidth="242.0" style="-fx-background-color: #000000;" />
+   </children>
+</AnchorPane>

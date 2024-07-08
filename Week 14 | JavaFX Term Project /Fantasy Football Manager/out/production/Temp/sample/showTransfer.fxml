@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="555.0" prefWidth="705.0" style="-fx-background-color: #151B54;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.showTransferController">
+   <children>
+      <Button fx:id="homeNavButton" layoutX="30.0" layoutY="177.0" mnemonicParsing="false" onAction="#GoToHome" prefHeight="39.0" prefWidth="143.0" style="-fx-background-color: #FFFFFF;" text="HOME">
+         <font>
+            <Font size="18.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Button>
+      <Button fx:id="searchNavButton" alignment="CENTER" contentDisplay="CENTER" layoutX="30.0" layoutY="267.0" mnemonicParsing="false" onAction="#GoBackToSearch" prefHeight="39.0" prefWidth="143.0" text="SEARCH" textFill="#ae1818">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button fx:id="transferNavButton" layoutX="31.0" layoutY="356.0" mnemonicParsing="false" onAction="#GoToTransfer" prefHeight="39.0" prefWidth="143.0" text="TRANSFER">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <ImageView fx:id="clubLogoImageView" fitHeight="88.0" fitWidth="80.0" layoutX="62.0" layoutY="21.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@chelsea.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="clubName" alignment="TOP_LEFT" layoutX="225.0" layoutY="45.0" prefHeight="47.0" prefWidth="397.0" stylesheets="@Style2.css" text="X" textFill="#e4d0d0">
+         <font>
+            <Font name="Franklin Gothic Demi" size="40.0" />
+         </font>
+      </Label>
+      <Line endX="494.0" endY="31.0" layoutX="177.0" layoutY="83.0" startX="-140.0" startY="31.0" stroke="#ff6600" strokeWidth="4.0" />
+      <Button fx:id="logOutButton" layoutX="30.0" layoutY="502.0" mnemonicParsing="false" onAction="#logout" prefHeight="40.0" prefWidth="120.0" text="Log Out">
+         <font>
+            <Font name="Franklin Gothic Demi" size="20.0" />
+         </font>
+      </Button>
+      <Line endX="34.0" endY="462.0" layoutX="187.0" layoutY="93.0" startX="34.0" startY="23.0" stroke="#ff6600" strokeWidth="4.0" />
+      <Button fx:id="buyButtobn" layoutX="339.0" layoutY="166.0" mnemonicParsing="false" onAction="#buyPlayerAction" prefHeight="98.0" prefWidth="269.0" text="Buy Players">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+      <Button fx:id="sellButton" layoutX="339.0" layoutY="346.0" mnemonicParsing="false" onAction="#sellPlayerAction" prefHeight="98.0" prefWidth="269.0" text="Sell Players">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

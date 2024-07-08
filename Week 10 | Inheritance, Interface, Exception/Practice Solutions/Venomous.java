@@ -1,0 +1,3 @@
+interface Venomous {
+    boolean isLethalToAdultHumans();
+}

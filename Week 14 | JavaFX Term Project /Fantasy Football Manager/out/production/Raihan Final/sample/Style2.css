@@ -1,0 +1,32 @@
+/*
+.menuItem:hover{
+    -fx-border-color: #660099;
+    -fx-border-width: 0px 0px 3px 0px;
+}
+
+.sidebarItem:hover{
+    -fx-background-color: #146886;
+    -fx-border-color: WHITE;
+    -fx-border-width: 0px 0px 0px 3px;
+}
+*/
+
+.button
+{
+    -fx-background-color : #333333 ;
+    -fx-text-fill : #E2A8FE ;
+    
+}
+
+.button:hover{
+    -fx-background-color :  #7E4EAC ;
+    -fx-text-fill : #532D84;
+    -fx-border-width: 0.5;
+    -fx-border-color: GREY;
+}
+
+
+
+
+
+

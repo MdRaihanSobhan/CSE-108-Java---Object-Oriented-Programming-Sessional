@@ -1,0 +1,5 @@
+The tasks and restrictions are mentioned in the given files as comments.
+You cannot change what is already written in the given files.
+You can include the files under suitable packages as required.
+For any query, please use the "Java Offline - 1 Queries" thread on the news forum.
+Submission deadline: June 7, 2021, Monday, 11:55 PM
