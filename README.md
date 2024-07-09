@@ -24,20 +24,6 @@ Have a look at the [`course outline`](/Course%20Outline.pdf) for more details.
     - [Practice Problems](/Week%2013%20|%20Networking%20/JavaNetworkingPractice/)
     - [Solution to Practice Problems](/Week%2013%20|%20Networking%20/Networking%20Practice%20Solutions/)
 
-## Practice Codes provided by Professor Dr. Rifat Shahriyar Sir
-- [01. Introduction to Java](/Java%20Practice%20Codes/01.%20Introduction%20to%20Java/src/) 
-- [02. Java More Details](/Java%20Practice%20Codes/02.%20Java%20More%20Details/src/)
-- [03. Java Strings](/Java%20Practice%20Codes/03.%20Java%20Strings/src/)
-- [04. Java Inheritance](/Java%20Practice%20Codes/04.%20Java%20Inheritance/src/)
-- [05. Java Package Interface Exception](/Java%20Practice%20Codes/05.%20Java%20Package%20Interface%20Exception/src/)
-- [06. Java Threading](/Java%20Practice%20Codes/06.%20Java%20Thread/src/)
-- [07. Java Networking](/Java%20Practice%20Codes/07.%20Java%20Networking/src/)
-- [08. Java Enumeration TypeWrappers Autoboxing](/Java%20Practice%20Codes/08.%20Java%20Enumeration%20TypeWrappers%20Autoboxing/src/)
-- [09. Java Generics Collections](/Java%20Practice%20Codes/09.%20Java%20Generics%20Collections/src/)
-- [10. Java Excel](/Java%20Practice%20Codes/10.%20Java%20Excel/)
-- [11. Java Modules](/Java%20Practice%20Codes/11.%20Java%20Modules/)
-- [12. Java IO](/Java%20Practice%20Codes/12.%20Java%20IO/)
-- [13. JavaFX Sample Project](/Java%20Practice%20Codes/13.%20Sample%20Project/)
 
 ## Offline Assignments:
 - Week-9 | [Offline 1](/Week%2009%20|%20%20League%20Simulator/)
@@ -56,6 +42,22 @@ Have a look at the [`course outline`](/Course%20Outline.pdf) for more details.
 - Week-14 | [Term Project Final Submission](/Week%2014%20|%20Fantasy%20Football%20Manager%20|%20JavaFX%20Term%20Project/)
   - [Fantasy Football Manager](/Week%2014%20|%20Fantasy%20Football%20Manager%20|%20JavaFX%20Term%20Project/)
 
+
+
+## Practice Codes provided by Professor Dr. Rifat Shahriyar Sir
+- [01. Introduction to Java](/Java%20Practice%20Codes/01.%20Introduction%20to%20Java/src/) 
+- [02. Java More Details](/Java%20Practice%20Codes/02.%20Java%20More%20Details/src/)
+- [03. Java Strings](/Java%20Practice%20Codes/03.%20Java%20Strings/src/)
+- [04. Java Inheritance](/Java%20Practice%20Codes/04.%20Java%20Inheritance/src/)
+- [05. Java Package Interface Exception](/Java%20Practice%20Codes/05.%20Java%20Package%20Interface%20Exception/src/)
+- [06. Java Threading](/Java%20Practice%20Codes/06.%20Java%20Thread/src/)
+- [07. Java Networking](/Java%20Practice%20Codes/07.%20Java%20Networking/src/)
+- [08. Java Enumeration TypeWrappers Autoboxing](/Java%20Practice%20Codes/08.%20Java%20Enumeration%20TypeWrappers%20Autoboxing/src/)
+- [09. Java Generics Collections](/Java%20Practice%20Codes/09.%20Java%20Generics%20Collections/src/)
+- [10. Java Excel](/Java%20Practice%20Codes/10.%20Java%20Excel/)
+- [11. Java Modules](/Java%20Practice%20Codes/11.%20Java%20Modules/)
+- [12. Java IO](/Java%20Practice%20Codes/12.%20Java%20IO/)
+- [13. JavaFX Sample Project](/Java%20Practice%20Codes/13.%20Sample%20Project/)
 
 
 ## Flow of the course at a glance:
