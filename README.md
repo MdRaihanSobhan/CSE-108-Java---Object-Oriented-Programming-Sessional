@@ -61,7 +61,7 @@ Have a look at the [`course outline`](/Course%20Outline.pdf) for more details.
 
 
 ## Flow of the course at a glance:
-- [Week 1-7: The first part of the course, OOP using c++](https://github.com/MdRaihanSobhan/CSE-108--CPP--Object-Oriented-Programming-Sessional)
+- Week-1-to-7: [The first part of the course | OOP using c++](https://github.com/MdRaihanSobhan/CSE-108--CPP--Object-Oriented-Programming-Sessional)
 - Week-8 | [Practice Session 1](/Week%2008%20|%20Java%20Intro/)
 - Week-9 | [Offline 1](/Week%2009%20|%20%20League%20Simulator/)
 - Week-10 | [Practice Session 2](/Week%2010%20|%20Inheritance,%20Interface,%20Exception/)
