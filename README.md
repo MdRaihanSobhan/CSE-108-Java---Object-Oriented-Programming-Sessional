@@ -69,3 +69,10 @@ Have a look at the [`course outline`](/Course%20Outline.pdf) for more details.
 - Week-12 | [Practice Session 3](/Week%2012%20|%20Threading/)
 - Week-13 | [Practice Session 4](/Week%2013%20|%20Networking%20/)
 - Week-14 | [Term Project Final Submission](/Week%2014%20|%20Fantasy%20Football%20Manager%20|%20JavaFX%20Term%20Project/)
+
+
+## Disclaimer
+
+This repository is an archive of the author's solutions to course assignments. These solutions are provided as-is and are not guaranteed to be error-free or comprehensive. The author accepts no responsibility for any issues or damage resulting from the use of these solutions. They are intended for reference only, and copying them for academic purposes is strongly discouraged. The author is not liable for any consequences arising from academic dishonesty.
+
+
